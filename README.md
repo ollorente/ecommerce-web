@@ -1,2 +1,2 @@
-# ecommerce-web
+# eCommerce WEB
 Web eCommerce Platform
