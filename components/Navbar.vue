@@ -25,17 +25,27 @@
 					<button class="btn-regresar"><i class="fas fa-arrow-left"></i> Regresar</button>
 					<h3 class="subtitulo">Categorías</h3>
 
-					<a href="#" data-categoria="tecnologia-y-computadoras">Tecnología y Computadoras
-						<i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="libros">Libros <i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="ropa-y-accesorios">Ropa y Accesorios
-						<i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="hogar-y-cocina">Hogar y Cocina <i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="juegos-y-juguetes">Juegos y Juguetes
-						<i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="salud-y-belleza">Salud y Belleza <i class="fas fa-angle-right"></i></a>
-					<a href="#" data-categoria="alimentos-y-bebidas">Alimentos y Bebidas
-						<i class="fas fa-angle-right"></i></a>
+					<a href="#" data-categoria="tecnologia-y-computadoras">
+                        Tecnología y Computadoras <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="libros">
+                        Libros <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="ropa-y-accesorios">
+                        Ropa y Accesorios <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="hogar-y-cocina">
+                        Hogar y Cocina <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="juegos-y-juguetes">
+                        Juegos y Juguetes <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="salud-y-belleza">
+                        Salud y Belleza <i class="fas fa-angle-right"></i>
+                    </a>
+					<a href="#" data-categoria="alimentos-y-bebidas">
+                        Alimentos y Bebidas <i class="fas fa-angle-right"></i>
+                    </a>
 				</div>
 
 				<div class="container-subcategorias">
@@ -58,14 +68,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1567311520/skyscraper/trinidad-and-tobago.jpg" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562727545/skyscraper/venezuela.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562727545/skyscraper/venezuela.jpg" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562727545/skyscraper/venezuela.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562727545/skyscraper/venezuela.jpg" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562726779/skyscraper/paraguay.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562726779/skyscraper/paraguay.jpg" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -89,14 +99,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562458136/ollorente/posts/miblsocuavql5cuazugb.jpg" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562373998/ollorente/posts/a7ogoj6kuxmt5tqrgrf1.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562373998/ollorente/posts/a7ogoj6kuxmt5tqrgrf1.png" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562373925/ollorente/posts/b6qdja71zwqompn8x6zc.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562373925/ollorente/posts/b6qdja71zwqompn8x6zc.png" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1560395098/ollorente/posts/lqxycxqwflmhtxpu5owx.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1560395098/ollorente/posts/lqxycxqwflmhtxpu5owx.jpg" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -120,14 +130,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562563401/admin/h4yngfhaoysb253krd6l.png" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562279383/admin/movhmbszggr4460xwh7f.webp" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562279383/admin/movhmbszggr4460xwh7f.webp" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562278791/admin/q3wqao4qd9hmju1re8rc.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562278791/admin/q3wqao4qd9hmju1re8rc.png" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562277814/admin/tzdlwg9svk5rqz2h4h1o.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562277814/admin/tzdlwg9svk5rqz2h4h1o.jpg" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -151,14 +161,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562126299/admin/duc4mebtps10lodxbjzs.png" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562124982/admin/tk6gldesr8dc0ulsjqvr.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562124982/admin/tk6gldesr8dc0ulsjqvr.jpg" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562124397/admin/v1utuxhtxjuc09uypjjy.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562124397/admin/v1utuxhtxjuc09uypjjy.png" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562473431/admin/acekrshm7hwzocqifrfu.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562473431/admin/acekrshm7hwzocqifrfu.png" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -187,14 +197,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562122521/admin/s3zmoibjzdko4khej4zo.jpg" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562122521/admin/s3zmoibjzdko4khej4zo.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562122521/admin/s3zmoibjzdko4khej4zo.jpg" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562120782/admin/j6uf5cm94o6yw60wa9ej.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562120782/admin/j6uf5cm94o6yw60wa9ej.jpg" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562120090/admin/caqvurdvhpx9lkj4hing.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562120090/admin/caqvurdvhpx9lkj4hing.jpg" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -218,14 +228,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562282235/capilla-doctrinera-de-nuestra-senora-del-campo/drkby18ei7qby3xfmru2.png" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562282982/centro-comercial-cedritos/axfgdaabsfs1r1wy39et.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562282982/centro-comercial-cedritos/axfgdaabsfs1r1wy39et.png" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562283757/centro-comercial-mazuren/xixplbzxoz8jao3w6bmf.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562283757/centro-comercial-mazuren/xixplbzxoz8jao3w6bmf.png" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562285930/centro-comercial-oulet-bima/tljmkjhkpxcgjr9olmuu.png" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562285930/centro-comercial-oulet-bima/tljmkjhkpxcgjr9olmuu.png" alt="Imagen">
                             </a>
 						</div>
 					</div>
@@ -249,14 +259,14 @@
 							<a href="#">
 								<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562655216/fanargentina/iisklkgyt4jjvfipfuxz.jpg" alt="Imagen">
                             </a>
-								<a href="#">
-									<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562808355/fanbolivia/nbzfmofnme6odwudpqje.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562808355/fanbolivia/nbzfmofnme6odwudpqje.jpg" alt="Imagen">
                             </a>
-									<a href="#">
-										<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562808921/fanbrasil/u8smfxuqkabqhb4flcms.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562808921/fanbrasil/u8smfxuqkabqhb4flcms.jpg" alt="Imagen">
                             </a>
-										<a href="#">
-											<img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562655371/fancolombia/mlhb0ovr365heszslzcv.jpg" alt="Imagen">
+                            <a href="#">
+                                <img src="https://res.cloudinary.com/dbszizqh4/image/upload/v1562655371/fancolombia/mlhb0ovr365heszslzcv.jpg" alt="Imagen">
                             </a>
 						</div>
 					</div>
