@@ -1,0 +1,10 @@
+[build]
+    base = "/"
+    command = "npm run generate"
+    functions = "functions"
+    publish = "dist"
+
+[[redirects]]
+    form = "/*"
+    to = "/index.html"
+    status = 200
